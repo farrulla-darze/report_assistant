@@ -1,0 +1,13 @@
+pandas
+numpy
+pdfplumber
+jupyter
+PyMuPDF
+Pillow
+langchain
+sentence-transformers
+qdrant-client
+openai
+tiktoken
+langchainhub
+python-dotenv
